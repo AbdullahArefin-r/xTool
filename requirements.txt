@@ -1,0 +1,5 @@
+rich
+yt-dlp
+psutil
+speedtest-cli
+requests
